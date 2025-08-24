@@ -411,8 +411,6 @@ ul {
 .carousel__btn[data-dir="next-x"] svg {
   transform: rotate(180deg);
 }
-
-
 /* FOOTER */
 .site-footer {
   background: linear-gradient(180deg, #592692, #000e38);
